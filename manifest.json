@@ -1,0 +1,11 @@
+{
+	"id": "task-effort",
+	"name": "Task Effort",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A Obsidian plugin to create gantt chart from effort table.",
+	"author": "Yutaro Omote",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}

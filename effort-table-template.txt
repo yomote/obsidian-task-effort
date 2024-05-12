@@ -1,0 +1,14 @@
+<!-- START: project-config -->
+
+| Project Name | Sample Project |
+| ------------ | -------------- |
+
+<!-- END: project-config -->
+
+<!-- START: effort-table -->
+
+| title         | start Date | end date   | effort [man-day] | progress [%] |
+| ------------- | ---------- | ---------- | ---------------: | -----------: |
+| Sample Task A | YYYY-MM-DD | YYYY-MM-DD |               10 |           50 |
+
+<!-- END: effort-table -->
