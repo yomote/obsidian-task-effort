@@ -12,6 +12,7 @@
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
+		"@bitnoi.se/react-scheduler": "github:yomote/react-scheduler#dist",
 		"@types/node": "^20.12.7",
 		"@types/react": "^18.3.1",
 		"@types/react-dom": "^18.3.0",
@@ -26,8 +27,5 @@
 	},
 	"volta": {
 		"node": "22.0.0"
-	},
-	"dependencies": {
-		"@bitnoi.se/react-scheduler": "^0.2.0"
 	}
 }

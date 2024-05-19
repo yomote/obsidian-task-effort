@@ -107,6 +107,7 @@ export function createMasterSchedule(
 					startDate: new Date(row[headers.indexOf("start date")]),
 					endDate: new Date(row[headers.indexOf("end date")]),
 					occupancy: 3600,
+					progress: Number(row[headers.indexOf("progress [%]")]),
 				},
 			],
 		};
